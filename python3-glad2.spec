@@ -2,7 +2,7 @@ Summary:	Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the offici
 Summary(pl.UTF-8):	Wielojęzykowy generator loaderów GL/GLES/EGL/GLX/WGL oparty na oficjalnych specyfikacjach
 Name:		python3-glad2
 Version:	2.0.4
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/glad2/
